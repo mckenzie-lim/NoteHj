@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteHj", "NoteHj\NoteHj.csproj", "{727F7DF1-B1DC-4CC4-B0F9-3AFCB71FEDFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{727F7DF1-B1DC-4CC4-B0F9-3AFCB71FEDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727F7DF1-B1DC-4CC4-B0F9-3AFCB71FEDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727F7DF1-B1DC-4CC4-B0F9-3AFCB71FEDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727F7DF1-B1DC-4CC4-B0F9-3AFCB71FEDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {616B3D2B-A3A7-4B98-9DB0-657CFDD16F34}
+	EndGlobalSection
+EndGlobal

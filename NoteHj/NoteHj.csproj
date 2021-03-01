@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="folder.png" />
+    <None Remove="newpage.png" />
+    <None Remove="save.png" />
+    <None Remove="x.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="folder.png" />
+    <Resource Include="newpage.png" />
+    <Resource Include="save.png" />
+    <Resource Include="x.png" />
+  </ItemGroup>
+
+</Project>
